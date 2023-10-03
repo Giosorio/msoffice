@@ -12,8 +12,8 @@
 Linux
 ```
     mkdir work
-    git clone https://github.com/herumi/cybozulib
-    git clone https://github.com/herumi/msoffice
+    git clone https://github.com/Giosorio/cybozulib
+    git clone https://github.com/Giosorio/msoffice
     cd msoffice
     make -j RELEASE=1
 ```
